@@ -1,15 +1,16 @@
 {
   "name": "directory-size",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get number of files in a directory",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "fs",
     "filesystem"
   ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/timneutkens1/directory-size"
+  },
   "author": "Tim Neutkens",
   "license": "MIT",
   "dependencies": {
